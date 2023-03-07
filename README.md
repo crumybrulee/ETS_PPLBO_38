@@ -1,2 +1,5 @@
 # ETS_PPLBO_38
-ETS PPLBO PRAKTEK
+Nama : Caturiani Pratidina Bintari
+NIM : 201524038
+Kelas : 3B - D4TI
+
