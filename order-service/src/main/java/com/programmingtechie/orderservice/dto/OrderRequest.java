@@ -1,6 +1,5 @@
 package com.programmingtechie.orderservice.dto;
 
-import com.programmingtechie.orderservice.model.OrderLineItems;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
