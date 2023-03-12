@@ -25,7 +25,7 @@
       <module name="notification-service" options="-parameters" />
       <module name="order-service" options="" />
       <module name="payment-service" options="-parameters" />
-      <module name="product-service" options="-parameters" />
+      <module name="product-service" options="" />
     </option>
   </component>
 </project>
