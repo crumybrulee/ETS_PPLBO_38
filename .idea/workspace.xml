@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42cf0f8-f2fb-4676-97e1-4625583147a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/programmingtechie/orderservice/config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingtechie/orderservice/config/WebClientConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="18404fc9-0cd9-4b57-aee0-58ad6104f7fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,8 +22,13 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="2MtVzGR8WYKURWnhw1CTgv6ePcN" />
+  <component name="ProjectId" id="2MtUVNIM26PxNSQvYKxymJAt3UY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,26 +37,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Github/ETS_PPLBO_38/inventory-service",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "two.files.diff.last.used.folder": "D:/Github/ETS_PPLBO_38/inventory-service"
+    "last_opened_file_path": "D:/Github/ETS_PPLBO_38"
   }
 }]]></component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="run " />
-    </option>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e42cf0f8-f2fb-4676-97e1-4625583147a8" name="Changes" comment="" />
-      <created>1678587125650</created>
+      <changelist id="18404fc9-0cd9-4b57-aee0-58ad6104f7fc" name="Changes" comment="" />
+      <created>1678586402180</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678587125650</updated>
+      <updated>1678586402180</updated>
     </task>
     <servers />
   </component>
