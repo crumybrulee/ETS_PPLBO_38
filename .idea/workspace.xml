@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e42cf0f8-f2fb-4676-97e1-4625583147a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/payment-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/PaymentServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/dto/PaymentRequest$PaymentRequestBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/dto/PaymentRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/dto/PaymentResponse$PaymentResponseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/dto/PaymentResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/model/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/repository/PaymentRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/target/classes/com/programmingtechie/paymentservice/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/tools",
+    "last_opened_file_path": "D:/Github/ETS_PPLBO_38",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
